@@ -2,6 +2,7 @@
 🎓 Rising Junior | 🖥️ Computer Science & 📐 Applied Mathematics Double Major  
 🔬 Passionate about Quantum Computing, AI, ML, Robotics, & Data Science
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -18,6 +19,7 @@ Node.js (basic), Flask, React, Firebase
 
 ### 🗄️ Databases
 MySQL, SQL
+
 
 ## 📬 How to Reach Me
 
