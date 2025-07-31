@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-Python, C++, C, Java, JavaScript (basic), HTML, CSS
+Python, C++, C, Java, JavaScript, HTML, CSS
 
 ### 📊 Data Science & ML Libraries
 NumPy, Pandas, Matplotlib, scikit-learn, spaCy, TensorFlow
