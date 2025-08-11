@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nidhi Sakpal!
-🎓 Rising Junior | 🖥️ Computer Science & 📐 Applied Mathematics Double Major  
+🎓 Rising Junior @ NJIT | 🖥️ Computer Science & 📐 Applied Mathematics Double Major  
 🔬 Passionate about Quantum Computing, AI, ML, Robotics, & Data Science
 
 
