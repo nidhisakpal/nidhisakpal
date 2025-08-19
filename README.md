@@ -12,7 +12,7 @@ Python, C++, C, Java, JavaScript, HTML, CSS
 NumPy, Pandas, Matplotlib, scikit-learn, spaCy, TensorFlow
 
 ### 🤖 Development & Tools
-Jupyter Notebooks, Google Colab, Git, GitHub, VS Code
+Jupyter Notebooks, Google Colab, Git, GitHub, VS Code, Snowflake
 
 ### 🌐 Web & Frameworks
 Node.js (basic), Flask, React, Firebase
