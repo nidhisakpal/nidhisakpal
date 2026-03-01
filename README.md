@@ -3,7 +3,7 @@ Rising Junior @ NJIT | Computer Science & Applied Mathematics Double Major
 Passionate about AI Safety, ML, & Robotics
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 Python, C++, C, Java, JavaScript, HTML, CSS
@@ -14,7 +14,7 @@ NumPy, Pandas, Matplotlib, scikit-learn, spaCy, TensorFlow
 ### Development & Tools
 Jupyter Notebooks, Google Colab, Git, GitHub, VS Code, Snowflake
 
-### 🌐 Web & Frameworks
+### Web & Frameworks
 Node.js (basic), Flask, React, Firebase
 
 ### Databases
