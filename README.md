@@ -1,27 +1,27 @@
-# 👋 Hi, I'm Nidhi Sakpal!
-🎓 Rising Junior @ NJIT | 🖥️ Computer Science & 📐 Applied Mathematics Double Major  
-🔬 Passionate about Quantum Computing, AI, ML, Robotics, & Data Science
+# Hi, I'm Nidhi Sakpal!
+Rising Junior @ NJIT | Computer Science & Applied Mathematics Double Major  
+Passionate about AI Safety, ML, & Robotics
 
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 Python, C++, C, Java, JavaScript, HTML, CSS
 
-### 📊 Data Science & ML Libraries
+### Data Science & ML Libraries
 NumPy, Pandas, Matplotlib, scikit-learn, spaCy, TensorFlow
 
-### 🤖 Development & Tools
+### Development & Tools
 Jupyter Notebooks, Google Colab, Git, GitHub, VS Code, Snowflake
 
 ### 🌐 Web & Frameworks
 Node.js (basic), Flask, React, Firebase
 
-### 🗄️ Databases
+### Databases
 MySQL, SQL
 
 
-## 📬 How to Reach Me
+##  How to Reach Me
 
 - 📧 Email: [nidhi.a.sakpal@gmail.com]  
 - 💼 LinkedIn: [[linkedin.com/in/nidhisakpal](https://www.linkedin.com/in/nidhisakpal/)]
