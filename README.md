@@ -23,8 +23,8 @@ MySQL, SQL
 
 ##  How to Reach Me
 
-- 📧 Email: [nidhi.a.sakpal@gmail.com]  
-- 💼 LinkedIn: [[linkedin.com/in/nidhisakpal](https://www.linkedin.com/in/nidhisakpal/)]
+- Email: [nidhi.a.sakpal@gmail.com]  
+- LinkedIn: [[linkedin.com/in/nidhisakpal](https://www.linkedin.com/in/nidhisakpal/)]
 
 <!--
 **nidhisakpal/nidhisakpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
