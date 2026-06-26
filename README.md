@@ -1,5 +1,5 @@
 # Hi, I'm Nidhi Sakpal!
-Junior @ NJIT | Computer Science & Applied Mathematics Double Major  
+Senior @ NJIT | Computer Science & Applied Mathematics Double Major  
 Passionate about AI Safety, ML, & Robotics
 
 
